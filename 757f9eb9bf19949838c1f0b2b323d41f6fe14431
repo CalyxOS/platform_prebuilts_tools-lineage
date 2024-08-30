@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a02684df_d783b36c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2024-08-30T21:35:52Z",
+      "side": 1,
+      "message": "Empty merge to align history",
+      "revId": "757f9eb9bf19949838c1f0b2b323d41f6fe14431",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
